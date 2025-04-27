@@ -1,0 +1,4 @@
+Aplikacja została stworzona przy użyciu stosu technologicznego MERN (MongoDB, Express.js, React.js, Node.js).
+Aby uruchomić aplikację należy po prześciu w terminalu do katalogu projektu wykonać
+polecenie "npm install", aby zainstalować wszystkie niezbędne zależności dla backendu i frontendu.
+Następnie należy wykonać polecenia npm run backend oraz npm run frontend. Aplikacja będzie dostępna pod adresem http://localhost:5173/
